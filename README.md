@@ -7,10 +7,10 @@ The primary objective of this project is to create robust predictive models capa
 
 ##Key Features:
 
-- Data Collection: Gathering historical meteorological data from reliable sources, including weather stations and satellite imagery repositories.
+- Data Collection: Gathering historical meteorological data from reliable sources, including weather stations and satellite imagery repositories. The dataset is provided from the kaggle website.
 - Data Preprocessing: Cleaning and preprocessing the collected data to handle missing values, outliers, and inconsistencies.
 - Feature Engineering: Extracting relevant features from the raw data and transforming them into suitable input formats for the prediction models.
-Model Selection: Exploring and evaluating various machine learning algorithms, such as regression, time series analysis, and neural networks, to identify the most effective models for solar irradiation prediction.
+- Model Selection: Exploring and evaluating various machine learning algorithms, such as regression, time series analysis, and neural networks, to identify the most effective models for solar irradiation prediction.
 - Model Training: Training selected models using the preprocessed data and optimizing their parameters to improve performance.
 - Model Evaluation: Assessing the accuracy, precision, and robustness of the trained models through cross-validation and testing on unseen data.
 - Deployment: Developing an intuitive user interface or API for accessing the trained models and making real-time solar irradiation predictions.
